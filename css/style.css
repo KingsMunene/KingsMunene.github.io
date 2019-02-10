@@ -6,16 +6,41 @@ h1{
   color:#1E2F78;
 }
 .introduction{
-  text-align: center;
+  text-align: left;
   font-family: sans-serif;
+  line-height: 20px
 }
-img {
-  float: center;
-  height: 20%;
-  width: 20%;
+ul{
+  line-height: 30px;
+  text-align: center;
 }
 h2{
-  text-decoration: underline;
   text-align: center;
   font-family: sans-serif;
+}
+h3{
+  text-align: left;
+  font-style: normal;
+  font-family: sans-serif;
+  text-transform: full-width;
+  text-transform: uppercase;
+}
+.box{
+  padding: 3px;
+  margin: 2px;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+
+}
+img{
+  height: auto;
+  width:20%;
+}
+h4{
+  text-align: left;
+}
+li{
+  text-align: left;
 }
