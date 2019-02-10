@@ -1,0 +1,21 @@
+html{
+  background-color: #E3D5D2;
+}
+h1{
+  text-align: center;
+  color:#1E2F78;
+}
+.introduction{
+  text-align: center;
+  font-family: sans-serif;
+}
+img {
+  float: center;
+  height: 20%;
+  width: 20%;
+}
+h2{
+  text-decoration: underline;
+  text-align: center;
+  font-family: sans-serif;
+}
